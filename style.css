@@ -1,0 +1,19 @@
+body{
+    background-color: #dadada;
+    text-align: center;
+}
+h1{
+    font-family: 'Secular One', sans-serif;
+}
+p{
+    font-family: 'Gantari', sans-serif;
+}
+button{
+    border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: black;
+    box-shadow:  0 5px 10px rgba(0, 0, 0, 0.3);
+    color: white;
+}
